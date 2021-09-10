@@ -21,10 +21,14 @@ h5 {
     background-color: black;
 }
 .iconos{
-    display: inline-block;
     color: white;
     box-sizing: border-box;
+    font-size: 25px;
 }
 .row{
     display: inline-block;
+}
+.cuerpo-proyecto{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
 }
